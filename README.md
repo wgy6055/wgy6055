@@ -20,10 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [guanyu4real@gmail.com](mailto:guanyu4real@gmail.com "guanyu4real@gmail.com") / [微博](http://weibo.com/131471169)
 - 😄 Pronouns: He / Him
 
-***
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wgy6055&show_icons=true&count_private=true&theme=vue&hide_title=true&include_all_commits=true&&hide=prs,issues,contribs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgy6055&layout=compact" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgy6055&layout=compact" />
