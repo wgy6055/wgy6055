@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgy6055&layout=compact&bg_color=00000000&hide_border=true&text_color=718096&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgy6055&layout=compact&bg_color=00000000&hide_border=true&text_color=718096&hide_title=true&langs_count=10" />
 
 ### Hi there 👋
 
