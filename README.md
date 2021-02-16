@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgy6055&layout=compact&bg_color=00000000&hide_border=true&text_color=718096" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgy6055&layout=compact&bg_color=00000000&hide_border=true&text_color=718096&hide_title=true" />
 
 - 🔭  I’m currently working on iOS Development
 - 🌱  I’m currently learning Swift / Ruby ...
